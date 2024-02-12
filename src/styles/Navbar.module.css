@@ -1,0 +1,22 @@
+.navStyle {
+  background-color: black;
+  height: 10vh;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 9px;
+}
+.navHeading {
+  font-size: 5vh;
+  color: white;
+}
+
+.navButton {
+  padding: 10px 20px;
+  background-color: blueviolet;
+  border-radius: 5px;
+  color: white;
+  font-weight: bold;
+  font-size: 1.1rem;
+  cursor: pointer;
+}

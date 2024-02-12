@@ -1,0 +1,17 @@
+.addButtonDiv {
+  height: 20vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.addButton {
+  padding: 12px 20px;
+  background-color: blueviolet;
+  color: white;
+  font-weight: bold;
+  border-radius: 5px;
+}
+.habitDiv {
+  padding: 0 20vw;
+  border-radius: 5px;
+}

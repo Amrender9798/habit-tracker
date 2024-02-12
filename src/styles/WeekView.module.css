@@ -1,0 +1,50 @@
+.flexDiv {
+  display: flex;
+  height: 30vh;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.flexItems {
+  background-color: cadetblue;
+  margin: 0 20px;
+  height: 20vh;
+  width: 15vw;
+  color: white;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  margin-bottom: 10vh;
+}
+
+.iconsDiv {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 8vh;
+}
+
+.time {
+  margin: 0 0.9vw;
+}
+
+.button {
+  padding: 8px 12px;
+  border-radius: 5px;
+  font-weight: bold;
+  background-color: #dc3545;
+}
+
+.active {
+  background-color: #28a745;
+}
+
+.heading {
+  height: 15vh;
+  font-size: 4rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
